@@ -1,0 +1,77 @@
+.menu{
+    position: absolute;
+    top: 10px;
+    right:30px;
+    z-index:10;
+    cursor:pointer;
+}
+
+
+.links{
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+html {
+    margin: 0;
+    text-align: center;
+    background:linear-gradient(#f4c2c2 0%, white 100%);
+}
+img{
+  height:200px;
+  border-radius:50%;
+  border:black solid;
+}
+#intro{
+  padding-left:500px;
+  padding-right:500px;
+  line-height:2;
+  font-size:18px;
+}
+#brand{
+  font-size:100px;
+  font-family: 'Are You Serious', cursive;
+}
+#1{
+   height:200px; 
+    border:black solid;
+}
+#2{
+   height:200px; 
+    border:black solid;
+}
+#3{
+   height:200px; 
+    border:black solid;
+}
+#4{
+   height:200px; 
+    border:black solid;
+}
+#5{
+   height:200px; 
+    border:black solid;
+}
+#a{
+   height:200px; 
+    border:black solid;
+}
+#b{
+   height:200px; 
+    border:black solid;
+}
+#c{
+   height:200px; 
+    border:black solid;
+}
+#d{
+   height:200px; 
+    border:black solid;
+}
+#e{
+   height:200px; 
+    border:black solid;
+}
